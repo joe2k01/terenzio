@@ -10,3 +10,5 @@ Since the author wnated his plays to be more realistic he tried to avoid as much
 the stereotypes.
 Since he removed the stereotypes he focused the attention on the complexity of the true human relationships, such as the family life. A crucial point of Terence's plays is the psycological analisis of
 the characters.
+
+![Teatro]({{ site.baseurl }}/images/teatro.jpg)

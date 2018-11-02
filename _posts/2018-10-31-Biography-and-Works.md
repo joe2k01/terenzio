@@ -18,4 +18,3 @@ Out of all the Terence works, we only found 6 plays (commedies):
  * Eunuchus
  * Phormio
  * Adelphoe
-
